@@ -123,6 +123,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 .dmypy.json
+
+B*
+/Wang_Data
 dmypy.json
 
 # Pyre type checker
